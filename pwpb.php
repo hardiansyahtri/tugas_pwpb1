@@ -77,7 +77,7 @@
 	</div>
 	<div class="footer">
 		<hr align="center" width="100%">
-		<p>@kelompok1</p>
+		<p>@kelompok1 test</p>
 	</div>
 </body>
 </html>	
